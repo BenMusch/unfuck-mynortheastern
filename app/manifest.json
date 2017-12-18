@@ -2,7 +2,7 @@
   "name": "Unf*ck My Northeastern",
   "version": "0.0.5",
   "manifest_version": 2,
-  "description": "Stop ",
+  "description": "Stop myNortheastern from stealing your ctrl+f",
   "default_locale": "en",
   "content_scripts": [
     {
