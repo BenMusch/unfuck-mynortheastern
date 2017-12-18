@@ -1,0 +1,13 @@
+{
+  "name": "Unf*ck My Northeastern",
+  "version": "0.0.5",
+  "manifest_version": 2,
+  "description": "Stop ",
+  "default_locale": "en",
+  "content_scripts": [
+    {
+      "matches": ["*://my.northeastern.edu/*"],
+      "js": ["app.js"]
+    }
+  ]
+}

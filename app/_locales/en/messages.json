@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "auto pivotal integration",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Automatically add the pivotal integration to your PR merges",
+    "description": "The description of the application"
+  }
+}
